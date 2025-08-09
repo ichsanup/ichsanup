@@ -1,7 +1,5 @@
 ## Hi there, I'm Ichsan 😎
 
----
-
 I'm a professional **QA Engineer** with a passion for delivering high-quality software.  
 I specialize in manual and automated testing, test planning, and ensuring seamless user experiences.  
 With a keen eye for detail and a commitment to continuous improvement, I help teams build reliable and robust applications.
