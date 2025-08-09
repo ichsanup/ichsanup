@@ -9,7 +9,7 @@ With a keen eye for detail and a commitment to continuous improvement, I help te
 - 💡 Advocate for best practices in software quality and agile methodologies
 - 🤝 Collaborative team player focused on clear communication and problem-solving
 
-#### 🛠️ Tools & Technologies I Use
+#### 🛠️ Tech Stack
 
 <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 
@@ -18,6 +18,8 @@ With a keen eye for detail and a commitment to continuous improvement, I help te
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ichsanustafputra/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ichsanustaf)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ichsanup@gmail.com)
 [![credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ichsan-ustaf-putra/badges)
+
+![Ichsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichsanup&show_icons=true&theme=darcula)
 
 <!---
 ichsanup/ichsanup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
