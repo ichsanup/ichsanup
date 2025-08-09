@@ -19,7 +19,16 @@ With a keen eye for detail and a commitment to continuous improvement, I help te
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ichsanup@gmail.com)
 [![credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ichsan-ustaf-putra/badges)
 
-![Ichsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichsanup&show_icons=true&theme=tokyonight)<br/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichsanup&layout=compact&theme=github_dark)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ichsanup&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichsanup&layout=compact&theme=github_dark" />
+    </td>
+  </tr>
+</table>
 
 <!---
 ichsanup/ichsanup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
