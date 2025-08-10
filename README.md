@@ -21,9 +21,9 @@ With a keen eye for detail and a commitment to continuous improvement, I help te
 
 <table>
   <tr>
-    <td>
+    <!-- <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ichsanup&show_icons=true&theme=tokyonight" />
-    </td>
+    </td> -->
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichsanup&layout=compact&theme=github_dark" />
     </td>
